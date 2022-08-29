@@ -65,7 +65,7 @@ class _SelectBottomPanelState extends State<SelectBottomPanel> {
         children: <Widget>[
           Spacer(),
           Text(
-            "Select image to edit",
+            "Select an image to edit",
             style: Theme.of(context).textTheme.headline4,
           ),
           Spacer(),
